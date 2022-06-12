@@ -1,4 +1,5 @@
-# github-style
+# github-style-theme
+(forked from https://github.com/MeiK2333/github-style)
 
 ## Init hugo site
 
